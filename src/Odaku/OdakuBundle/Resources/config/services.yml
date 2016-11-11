@@ -1,4 +1,0 @@
-services:
-#    odaku_odaku.example:
-#        class: Odaku\OdakuBundle\Example
-#        arguments: ["@service_id", "plain_value", "%parameter%"]
