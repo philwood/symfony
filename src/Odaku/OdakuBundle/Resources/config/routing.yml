@@ -1,0 +1,3 @@
+odaku_odaku_homepage:
+    path:     /
+    defaults: { _controller: OdakuOdakuBundle:Default:index }
